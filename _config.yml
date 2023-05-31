@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+url: 'https://kabosy.github.io'
+baseurl: 'https://kabosy.github.io'
+title: 'Portfolio'
+description: "Quentin Dinel's portfolio"
 permalink: pretty
-logo: "https://cdn.discordapp.com/avatars/283632603322515458/25e30b9c95bc811df557720ace4e6b85.webp?size=32"
+logo: "https://cdn.discordapp.com/avatars/283632603322515458/25e30b9c95bc811df557720ace4e6b85.webp?size=64"
 
 # Pagination
 paginate: 5

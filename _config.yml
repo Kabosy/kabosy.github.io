@@ -46,6 +46,8 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
+social_links:
+  Twitter: "#1DA1F2"
 # Collections
 collections:
   posts:

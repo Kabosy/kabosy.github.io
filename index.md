@@ -1,8 +1,7 @@
 ---
-title: Welcome to my website
+title: Hello there, the name's Quentin 
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  # Portfolio
 ---
-
-There isn't much going on here yet, but watch this space
+I am a 2nd year student in a Master of Machine Learning at the University of Lille

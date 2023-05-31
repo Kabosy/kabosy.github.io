@@ -22,9 +22,9 @@ plugins:
 
 # Site settings
 url: 'https://kabosy.github.io'
-baseurl: 'https://kabosy.github.io'
+baseurl: ''
 title: 'Portfolio'
-description: "Quentin Dinel's portfolio"
+description: ''
 permalink: pretty
 logo: "https://cdn.discordapp.com/avatars/283632603322515458/25e30b9c95bc811df557720ace4e6b85.webp?size=64"
 

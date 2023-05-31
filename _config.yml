@@ -26,7 +26,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://cdn.discordapp.com/avatars/283632603322515458/25e30b9c95bc811df557720ace4e6b85.webp?size=32"
 
 # Pagination
 paginate: 5

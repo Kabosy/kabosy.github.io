@@ -1,7 +1,7 @@
 ---
 title: Hobbies
 ---
-
+{: .emoji-big-size}
 
 ##### Video games :video_game:
 Ever since Pokemon Ruby in 2004, I have always been passionate about video games.  
